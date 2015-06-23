@@ -1,2 +1,5 @@
-# portfolio
-Portfolio - Built with Node, Hapi and React. Full-stack JS
+# Portfolio
+
+Built with Node.js, Hapi and React. 
+
+Full-stack JS
