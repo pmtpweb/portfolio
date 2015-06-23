@@ -1,0 +1,23 @@
+{
+  "name": "appofthestorm",
+  "version": "1.0.0",
+  "description": "Web App for Heroes of the Storm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "heroesofthestorm",
+    "hots"
+  ],
+  "author": "fatxx",
+  "license": "ISC",
+  "dependencies": {
+    "faker": "^2.1.5",
+    "good": "^6.1.4",
+    "good-console": "^5.0.2",
+    "hapi": "^8.6.1",
+    "hapijs-react-views": "^0.7.3",
+    "react": "^0.13.3"
+  }
+}
